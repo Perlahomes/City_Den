@@ -233,7 +233,7 @@ img1 {
 
 /* Home Button Styling */
 a {
-    color: rgb(32, 31, 31); /* Change to any color you like */
+     color: #7c7979; /* Set a default color for social media icons */
 }
 
 .home-button {
